@@ -17,10 +17,10 @@ body
 }
 #cabecera
 {
-    background: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+
 
 }
-
 #container h1
 {
     font-size: 20px;
