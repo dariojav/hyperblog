@@ -5,3 +5,15 @@ in camera he looks tall but he not is
 
 x3 * f3
 
+
+<div id="cabecera">
+                Hyperblog
+                <span id="tagline">tu blog de confianza</span>
+            </div>
+
+#cabecera
+{
+    background: blueviolet;
+
+}
+
