@@ -17,7 +17,8 @@ body
 }
 #cabecera
 {
-    background: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+
 
 }
 #container h1
